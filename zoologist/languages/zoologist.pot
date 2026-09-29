@@ -1,106 +1,112 @@
-# Copyright (C) 2021 Automattic
+# Copyright (C) 2025 Automattic
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Zoologist 1.0.0\n"
+"Project-Id-Version: Zoologist 1.0.49\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/zoologist\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-10-05T03:12:29+00:00\n"
+"POT-Creation-Date: 2025-08-22T02:09:44+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.5.0\n"
-"X-Domain: zoologist\n"
+"X-Generator: WP-CLI 2.11.0\n"
 
 #. Theme Name of the theme
-#: inc/patterns/image-feature.php:19
+#: style.css
 msgid "Zoologist"
 msgstr ""
 
 #. Theme URI of the theme
+#: style.css
 msgid "https://wordpress.com/theme/zoologist"
 msgstr ""
 
 #. Description of the theme
+#: style.css
 msgid "Zoologist is a simple blogging theme that supports full-site editing."
 msgstr ""
 
 #. Author of the theme
+#: style.css
 msgid "Automattic"
 msgstr ""
 
 #. Author URI of the theme
+#: style.css
 msgid "https://automattic.com/"
 msgstr ""
 
-#: inc/patterns/authors.php:9
-msgid "Authors"
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
 msgstr ""
 
-#: inc/patterns/authors.php:13
-msgid "About the Authors:"
+#: theme.json
+msgctxt "Custom template name"
+msgid "Header and Footer Only"
 msgstr ""
 
-#: inc/patterns/authors.php:19
-#: inc/patterns/quote.php:13
-msgid "Sarah Edwards"
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page without title"
 msgstr ""
 
-#: inc/patterns/authors.php:23
-msgid "Sarah is a zoologist at Anthem State University. Her love for all things underground was sparked in Kindergarten when she unearthed a toy that someone left buried in the sandbox."
+#: theme.json
+#: styles/black.json
+#: styles/white.json
+msgctxt "Color name"
+msgid "Primary"
 msgstr ""
 
-#: inc/patterns/authors.php:35
-msgid "Angelo Ortiz"
+#: theme.json
+#: styles/black.json
+#: styles/white.json
+msgctxt "Color name"
+msgid "Secondary"
 msgstr ""
 
-#: inc/patterns/authors.php:39
-msgid "Angelo is an independent researcher and hobbyist. His collection of gemstones rivals that of some museums. Angelo is always on the lookout for a new discovery, and carries his toolkit everywhere."
+#: theme.json
+#: styles/black.json
+#: styles/white.json
+msgctxt "Color name"
+msgid "Background"
 msgstr ""
 
-#: inc/patterns/email-updates-large.php:9
-msgid "Email Updates (Large)"
+#: theme.json
+#: styles/black.json
+#: styles/white.json
+msgctxt "Color name"
+msgid "Tertiary"
 msgstr ""
 
-#: inc/patterns/email-updates-large.php:13
-msgid "Our newsletter rocks! Sign up here to receive every post in your inbox."
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
 msgstr ""
 
-#: inc/patterns/email-updates-small.php:9
-msgid "Email Updates (small)"
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
 msgstr ""
 
-#: inc/patterns/email-updates-small.php:12
-msgid "Receive every post in your inbox."
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
 msgstr ""
 
-#: inc/patterns/header-with-rounded-site-logo.php:9
-msgid "Header with Rounded Site Logo and Title"
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
 msgstr ""
 
-#: inc/patterns/image-feature.php:9
-msgid "Image feature"
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
 msgstr ""
 
-#: inc/patterns/image-feature.php:25
-#: inc/patterns/introduction.php:13
-msgid "Zoologist is a blog dedicated to everything buried under the earth's surface."
-msgstr ""
-
-#: inc/patterns/introduction.php:9
-msgid "Introduction"
-msgstr ""
-
-#: inc/patterns/quote.php:9
-msgid "Quote"
-msgstr ""
-
-#: inc/patterns/quote.php:13
-msgid "Amazonite, Ametrine, Beryl, Dioptase, Howlite, Jade, and Ruby."
-msgstr ""
-
-#: inc/patterns/two-featured-posts.php:9
-msgid "Two featured posts"
+#: styles/white.json
+msgctxt "Style variation name"
+msgid "White"
 msgstr ""

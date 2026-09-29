@@ -1,6 +1,6 @@
 === Zoologist ===
 Contributors: Automattic
-Requires at least: 5.7
+Requires at least: 5.8
 Tested up to: 5.7.2
 Requires PHP: 5.7
 License: GPLv2 or later
@@ -11,6 +11,23 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Zoologist is a simple blogging theme that supports full-site editing.
 
 == Changelog ==
+
+= 1.0.50 =
+* zoologist: add functions.php exposing the translatable theme name
+
+= 1.0.49 =
+* Add Requires at least to all style.css files (#156730)
+
+= 1.0.48 =
+* Geologist and Zoologist: Revert color classes changes. (#8633)
+
+= 1.0.47 =
+* Bump required PHP versions to 7.2 (#8589)
+* Revert Bump required PHP versions to 7.2 (#8589)
+* correct color classes for foreground and secondary (#8595)
+
+= 1.0.46 =
+* Quadrat, Zoologist, Geologist: Fix post nav block arrows (#8571)
 
 = 1.0.45 =
 * Remove fixed font-size from post title block on blockbase themes (#8197)
